@@ -11,7 +11,7 @@ Based on @theroich/torrentz2
 npm install btdb-search
 ```
 
-### Search magnet links 
+### Usage
 ```javascript
 var btdb = require('btdb-search');
 btdb.search('Ubuntu').then(function (data) {
