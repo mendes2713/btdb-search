@@ -3,6 +3,7 @@
 
 ## BTDB-SEARCH
 Html scraper of [BitTorrent Database](https://btdb.to/). Lets find a list of magnets links by query string. Return ArrayJson as result.
+Based on @theroich/torrentz2
 
 ### Install
 
